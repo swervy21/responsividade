@@ -1,0 +1,252 @@
+
+* {
+  margin: 0;
+  border: 0;
+  padding: 0;
+  background-color: #f2f2f2;
+}
+
+section {
+  width: 60vw;
+  height: 32vw;
+}
+
+.main-container {
+  width: 60vw;
+  height: 30vw;
+  background-color: black;
+  display: flex;
+  position: fixed;
+  top: 10vw;
+  left: 20vw;
+  border-radius: 10px;
+}
+
+.cont1 {
+ width: 20vw;
+ height: 30vw;
+ background-color: #e38826;
+ border-top-left-radius: 10px;
+ border-bottom-left-radius: 10px;
+}
+
+.car1 {
+  width: 20vw;
+  height: 3vw;
+  margin-top: 5.5vh;
+  background-color: #e38826;
+}
+
+.img1 {
+  padding-top: 1vh;
+  padding-left: 2.3vw;
+  width: 65px;
+  background-color: #e38826;
+}
+
+.title1 {
+  margin-top: 3.5vh;
+  height: 6vh;
+  background-color: #e38826
+}
+
+.text1 {
+  background-color: #e38826;
+  padding-top: 0.7vh;
+  padding-left: 2.4vw;
+  font-family: 'Big Shoulders Display', cursive;
+  font-size: 40px;
+  color: #f2f2f2;
+}
+
+.paragraph1 {
+  margin-left: 2.4vw;
+  margin-top: 3vh;
+  height: 14vh;
+  width: 13.5vw;
+  background-color: #e38826;
+}
+
+.p1 {
+  font-family: 'Lexend Deca', sans-serif;
+  font-size: 15px;
+  width: 11vw;
+  line-height: 2.6vh;
+  background-color: #e38826;
+  color: #e6dada;
+  height: 14vh;
+}
+
+.button1 {
+  margin-top: 10vh;
+  margin-left: 2.4vw;
+  height: 4.8vh;
+  width: 8vw;
+  border-radius: 25px;
+  background-color: #e38826;
+  border: solid  #f2f2f2;
+  border-width: 2.5px;
+}
+
+.bt1 {
+  margin-top: 1.5vh;
+  margin-left: 1.8vw;
+  background-color: #e38826;
+  color: #e4e2e2;
+  font-family: 'Lexend Deca', sans-serif;
+  font-size: 15px;
+}
+
+.cont2 {
+  width: 20vw;
+  height: 30vw;
+  background-color: #006970;
+}
+
+.car2 {
+  background-color: #006970;
+  width: 20vw;
+  height: 3vw;
+  margin-top: 5.5vh;
+}
+
+.img2 {
+  padding-top: 1vh;
+  padding-left: 2.3vw;
+  width: 65px;
+  background-color: #006970;
+}
+
+.title2 {
+  margin-top: 3.5vh;
+  height: 6vh;
+  background-color: #006970;
+}
+
+.text2 {
+  background-color: #006970;
+  padding-top: 0.7vh;
+  padding-left: 2.4vw;
+  font-family: 'Big Shoulders Display', cursive;
+  font-size: 40px;
+  color: #f2f2f2;
+}
+
+.paragraph2 {
+  margin-left: 2.4vw;
+  margin-top: 3vh;
+  height: 14vh;
+  width: 13.5vw;
+  background-color: #006970;
+}
+
+.p2 {
+  font-family: 'Lexend Deca', sans-serif;
+  font-size: 15px;
+  width: 11vw;
+  line-height: 2.7vh;
+  background-color: #006970;
+  color: #e6dada;
+  height: 14vh;
+}
+
+.button2 {
+  margin-top: 10vh;
+  margin-left: 2.4vw;
+  height: 4.8vh;
+  width: 8vw;
+  border-radius: 25px;
+  background-color: #006970;
+  border: solid  #f2f2f2;
+  border-width: 2.5px;
+}
+
+.bt2 {
+  margin-top: 1.5vh;
+  margin-left: 1.8vw;
+  background-color: #006970;
+  color: #e4e2e2;
+  font-family: 'Lexend Deca', sans-serif;
+  font-size: 15px; 
+}
+
+.cont3 {
+  width: 20vw;
+  height: 30vw;
+  background-color: #004241;
+  border-top-right-radius: 10px;
+  border-bottom-right-radius: 10px;
+}
+
+.car3 {
+  background-color: #004241;
+  width: 20vw;
+  height: 3vw;
+  margin-top: 5.5vh;
+}
+
+.img3 {
+  padding-top: 1vh;
+  padding-left: 2.3vw;
+  width: 65px;
+  background-color: #004241;
+}
+
+
+.title3 {
+  background-color: #004241;
+  margin-top: 3.5vh;
+  height: 6vh;
+}
+
+.text3 {
+  background-color: #004241;
+  padding-top: 0.7vh;
+  padding-left: 2.4vw;
+  font-family: 'Big Shoulders Display', cursive;
+  font-size: 40px;
+  color: #e4e2e2;
+}
+
+.paragraph3 {
+  margin-left: 2.4vw;
+  margin-top: 3vh;
+  height: 14vh;
+  width: 13.5vw;
+  background-color: #004241;
+  height: 14vh;
+  background-color: #004241;
+}
+
+.p3 {
+  font-family: 'Lexend Deca', sans-serif;
+  font-size: 15px;
+  width: 11vw;
+  line-height: 2.7vh;
+  background-color: #004241;
+  color: #d8cbcb;
+  height: 14vh;
+}
+
+.button3 {
+  margin-top: 10vh;
+  margin-left: 2.4vw;
+  height: 3.5vh;
+  width: 8vw;
+  border-radius: 25px;
+  background-color: #004241;
+  border: solid  #f2f2f2;
+  border-width: 2.5px;
+  text-align: center;
+  padding-top: 1.5vh;
+}
+
+
+
+.bt3 {
+  background-color: #004241;
+  color: #e4e2e2;
+  font-family: 'Lexend Deca', sans-serif;
+  font-size: 15px;
+  
+}
